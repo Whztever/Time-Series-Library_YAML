@@ -1,0 +1,162 @@
+long_term_forecast_TimesNet_test_TimesNet_WIND_ftMS_sl96_ll48_pl96_dm32_nh8_el2_dl1_df32_expand2_dc4_fc3_ebtimeF_dtTrue_Exp_0  
+mse:1.6019673347473145, mae:0.9488192200660706, dtw:-999
+
+long_term_forecast_TimesNet_test_TimesNet_WIND_ftMS_sl96_ll48_pl96_dm32_nh8_el2_dl1_df32_expand2_dc4_fc3_ebfixed_dtTrue_Exp_0  
+mse:1.5467535257339478, mae:0.9270529747009277, dtw:-999
+
+long_term_forecast_TimesNet_test_TimesNet_ETTh1_ftMS_sl96_ll48_pl96_dm16_nh8_el2_dl1_df16_expand2_dc4_fc3_ebfixed_dtTrue_Exp_0  
+mse:0.06670758873224258, mae:0.20032528042793274, dtw:-999
+
+long_term_forecast_TimesNet_test_TimesNet_ETTh1_ftMS_sl96_ll48_pl96_dm16_nh8_el2_dl1_df16_expand2_dc4_fc3_ebfixed_dtTrue_Exp_0  
+mse:0.0701785609126091, mae:0.2038356214761734, dtw:-999
+
+long_term_forecast_TimesNet_test_TimesNet_ETTh1_ftMS_sl96_ll48_pl96_dm16_nh8_el2_dl1_df32_expand2_dc4_fc3_ebfixed_dtTrue_Exp_0  
+mse:0.06451874226331711, mae:0.19467557966709137, dtw:-999
+
+long_term_forecast_TimesNet_test_TimesNet_ETTh1_ftM_sl96_ll48_pl96_dm16_nh8_el2_dl1_df32_expand2_dc4_fc3_ebfixed_dtTrue_Exp_0  
+mse:0.6571015119552612, mae:0.5449952483177185, dtw:-999
+
+long_term_forecast_TimesNet_test_TimesNet_ETTh1_ftM_sl96_ll48_pl96_dm16_nh8_el2_dl1_df32_expand2_dc4_fc3_ebtimeF_dtTrue_Exp_0  
+mse:0.5235538482666016, mae:0.49801111221313477, dtw:-999
+
+long_term_forecast_TimesNet_test_TimesNet_ETTh1_ftM_sl96_ll48_pl96_dm16_nh8_el2_dl1_df32_expand2_dc4_fc3_ebtimeF_dtTrue_Exp_0  
+mse:0.41672244668006897, mae:0.4308968484401703, dtw:-999
+
+long_term_forecast_TimesNet_test_TimesNet_ETTh1_ftMS_sl96_ll48_pl96_dm16_nh8_el2_dl1_df32_expand2_dc4_fc3_ebtimeF_dtTrue_Exp_0  
+mse:0.05877865478396416, mae:0.18542590737342834, dtw:-999
+
+long_term_forecast_TimesNet_test_TimesNet_ETTh1_ftMS_sl96_ll48_pl96_dm16_nh8_el2_dl1_df32_expand2_dc4_fc3_ebtimeF_dtTrue_Exp_0  
+mse:0.059009961783885956, mae:0.185126394033432, dtw:-999
+
+long_term_forecast_test_iTransformer_LOAD_ftM_sl96_ll48_pl24_dm32_nh8_el2_dl2_df32_expand2_dc4_fc1_ebtimeF_dtTrue_test_0  
+mse:0.06057604029774666, mae:0.1341470181941986, dtw:-999
+
+long_term_forecast_test_iTransformer_LOAD_ftMS_sl96_ll48_pl96_dm32_nh8_el2_dl2_df32_expand2_dc4_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.17695219814777374, mae:0.25445061922073364, dtw:-999
+
+long_term_forecast_test_iTransformer_LOAD_ftMS_sl96_ll48_pl96_dm32_nh8_el2_dl2_df32_expand2_dc4_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.15593566000461578, mae:0.24179503321647644, dtw:-999
+
+long_term_forecast_test_iTransformer_LOAD_ftMS_sl96_ll48_pl96_dm32_nh8_el2_dl2_df32_expand2_dc4_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.17478887736797333, mae:0.25419312715530396, dtw:-999
+
+iTrans  
+mse:0.08088593184947968, mae:0.20578114688396454, dtw:-999
+
+iTransformer+TCN-Orin  
+mse:0.08088593184947968, mae:0.20578114688396454, dtw:-999
+
+iTransformer+TCN-Orin  
+mse:0.08000518381595612, mae:0.2049838900566101, dtw:-999
+
+iTransformer+TCN-multy  
+mse:0.0513450987637043, mae:0.16725613176822662, dtw:-999
+
+iTransformer+TCN-demulty  
+mse:0.05942288041114807, mae:0.18162801861763, dtw:-999
+
+iTransformer+TCN-Orin  
+mse:0.07756293565034866, mae:0.2023213505744934, dtw:-999
+
+iTransformer+TCN-Orin  
+mse:0.03182302415370941, mae:0.1344347894191742, dtw:-999
+
+iTransformer+TCN-multy  
+mse:0.03182302415370941, mae:0.1344347894191742, dtw:-999
+
+iTransformer+TCN+mlp-multy  
+mse:0.03596073016524315, mae:0.14348003268241882, dtw:-999
+
+iTransformer+TCN+demlp-multy  
+mse:0.033135756850242615, mae:0.13848894834518433, dtw:-999
+
+iTransformer+TCN+demlp-multy  
+mse:0.03563566505908966, mae:0.14359129965305328, dtw:-999
+
+iTransformer+TCN+mlp-multy  
+mse:0.028463108465075493, mae:0.12877464294433594, dtw:-999
+
+iTransformer+TCN-multy  
+mse:0.02955402433872223, mae:0.1304597556591034, dtw:-999
+
+iTransformer+TCN-multy  
+mse:0.02955402433872223, mae:0.1304597556591034, dtw:-999
+
+iTransformer-multy  
+mse:0.04457886889576912, mae:0.15859846770763397, dtw:-999
+
+iTransformer-multy  
+mse:0.0980321392416954, mae:0.23411203920841217, dtw:-999
+
+iTransformer-multy  
+mse:0.04457886889576912, mae:0.15859846770763397, dtw:-999
+
+iTransformer-multy  
+mse:0.0980321392416954, mae:0.23411203920841217, dtw:-999
+
+iTransformer-multy  
+mse:0.0980321392416954, mae:0.23411203920841217, dtw:-999
+
+iTransformer-multy  
+mse:0.0980321392416954, mae:0.23411203920841217, dtw:-999
+
+iTransformer-multy  
+mse:0.0980321392416954, mae:0.23411203920841217, dtw:-999
+
+iTransformer-multy  
+mse:0.0980321392416954, mae:0.23411203920841217, dtw:-999
+
+iTransformer-orin  
+mse:0.10499848425388336, mae:0.24142566323280334, dtw:-999
+
+iTransformer-orin  
+mse:0.07945602387189865, mae:0.2046833336353302, dtw:-999
+
+iTransformer-multy  
+mse:0.04457886889576912, mae:0.15859846770763397, dtw:-999
+
+iTransformer-TCN-orin  
+mse:0.076764777302742, mae:0.2019018679857254, dtw:-999
+
+iTransformer-TCN-multy  
+mse:0.02955402433872223, mae:0.1304597556591034, dtw:-999
+
+iTransformer-MLP-orin  
+mse:0.07470338046550751, mae:0.1977423131465912, dtw:-999
+
+iTransformer-MLP-multy  
+mse:0.03801469877362251, mae:0.1476013958454132, dtw:-999
+
+iTransformer-TCN-MLP-orin  
+mse:0.07686722278594971, mae:0.20207516849040985, dtw:-999
+
+iTransformer-TCN-MLP-multy  
+mse:0.026685012504458427, mae:0.12484733015298843, dtw:-999
+
+Informer-orin  
+mse:0.16590479016304016, mae:0.3134700655937195, dtw:-999
+
+Informer-orin  
+mse:0.16590479016304016, mae:0.3134700655937195, dtw:-999
+
+Informer-orin  
+mse:0.15316364169120789, mae:0.30227744579315186, dtw:-999
+
+Informer-orin  
+mse:0.18740059435367584, mae:0.33728575706481934, dtw:-999
+
+Informer-orin  
+mse:0.10783333331346512, mae:0.246894970536232, dtw:-999
+
+Transformer-orin  
+mse:0.09599746018648148, mae:0.22826744616031647, dtw:-999
+
+Autoformer-orin  
+mse:0.31434598565101624, mae:0.44422584772109985, dtw:-999
+
+Reformer-orin  
+mse:0.23532041907310486, mae:0.37707647681236267, dtw:-999
+
+TimesNet-orin  
+mse:0.08635247498750687, mae:0.21381887793540955, dtw:-999
+
